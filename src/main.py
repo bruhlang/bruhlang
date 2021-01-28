@@ -45,7 +45,7 @@ def parse(toks):
     i = 0
     while(i < len(toks)):
         if toks[i] + " " + toks[i+1][0:6] == "PRINT STRING":
-            print(toks[i+1][7:])
+            print(f"BRUH: {toks[i+1][7:]}")
 
         i += 2
 

@@ -4,7 +4,7 @@
 
 Contributing guide and full language features coming soon. Stay tuned!
 
-*NOTE:* This is a joke and a completely useless language. 🤠
+*NOTE:* This is a joke and a completely useless language. :)
 
 ## Core
 
@@ -14,7 +14,11 @@ First, let's write a simple _"Hello World"_ program with Bruh:
 bruh => "Hello World"
 ```
 
-The `bruh` keyword is the standard to write `bruh statements` to the console/terminal throughout the entire language. This, however, is not the only option.
+The `bruh` keyword is the standard to write `bruh statements` to the console/terminal throughout the entire language. The statement outlined below will print:
+
+```bash
+BRUH: "Somebody just told me that PHP is the best language."
+```
 
 ### Bruh Statements
 
