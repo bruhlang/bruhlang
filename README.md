@@ -17,7 +17,7 @@ bruh => "Hello World"
 The `bruh` keyword is the standard to write `bruh statements` to the console/terminal throughout the entire language. The statement outlined below will print:
 
 ```bash
-BRUH: "Somebody just told me that PHP is the best language."
+BRUH: "Somebody just told me that Angular is better than React."
 ```
 
 ### Bruh Statements
