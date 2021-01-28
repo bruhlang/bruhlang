@@ -19,3 +19,5 @@ The `bruh` keyword is the standard to write `bruh statements` to the console/ter
 ### Bruh Statements
 
 Statements in `bruhlang` are denoted with `bruh => "Some text"` and represent the essentiality of the language. By convention, in order fr a message to be *bruh-able*, the text within the quotes shall represent something that is representable with the word `bruh`.
+
+Built and maintained with ❤️ by __[@markmusic2727](https://twitter.com/MarkMusic2727)__ and __[@FilippoFonseca](https://twitter.com/FilippoFonseca)__
