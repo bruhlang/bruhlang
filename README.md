@@ -1,4 +1,4 @@
-# bruhlang
+# `bruhlang`
 
 👾A cohesive, simplistic language to denote bruh-able messages. 
 
