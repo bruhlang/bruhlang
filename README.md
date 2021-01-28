@@ -1,1 +1,21 @@
 # bruhlang
+
+👾A cohesive, simplistic language to denote bruh-able messages. 
+
+Contributing guide and full language features coming soon. Stay tuned!
+
+*NOTE:* This is a joke and a completely useless language. :)
+
+## Core
+
+First, let's write a simple _"Hello World"_ program with Bruh:
+
+```py
+bruh => "Hello World"
+```
+
+The `bruh` keyword is the standard to write `bruh statements` to the console/terminal throughout the entire language. This, however, is not the only option.
+
+### Bruh Statements
+
+Statements in bruh are denoted with `bruh => "Some text"` and represent the essentiality of the language. By convention, within the quotes shall represent something that is representable with the word `bruh`.
