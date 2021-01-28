@@ -18,4 +18,4 @@ The `bruh` keyword is the standard to write `bruh statements` to the console/ter
 
 ### Bruh Statements
 
-Statements in bruh are denoted with `bruh => "Some text"` and represent the essentiality of the language. By convention, within the quotes shall represent something that is representable with the word `bruh`.
+Statements in `bruhlang` are denoted with `bruh => "Some text"` and represent the essentiality of the language. By convention, within the quotes shall represent something that is representable with the word `bruh`.
